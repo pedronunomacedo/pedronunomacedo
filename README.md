@@ -13,9 +13,9 @@
 <br>
 
 
-🏙️ Located in Porto, Portugal <br>
-📖 Studying Informatics and Computing Engineering in my 3rd year <br>
-🎓 FEUP, University of Porto, Portugal <br>
+<span> 🏙️ Located in Porto, Portugal </span><br>
+<span> 📖 Studying Informatics and Computing Engineering in my 3rd year </span><br>
+<span> 🎓 FEUP, University of Porto, Portugal </span><br>
  
 <hr></hr>
 
