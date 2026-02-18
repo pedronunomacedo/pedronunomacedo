@@ -5,25 +5,25 @@
      by the GitHub Actions workflow or by running: python -m generator.main -->
 
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+  <img src="./assets/generated/galaxy-header.svg?v=2" width="850" alt="Galaxy Header"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+  <img src="./assets/generated/stats-card.svg?v=2" width="850" alt="Mission Telemetry"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+  <img src="./assets/generated/tech-stack.svg?v=2" width="850" alt="Tech Stack"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+  <img src="./assets/generated/projects-constellation.svg?v=2" width="850" alt="Featured Projects"/>
 </div>
 
 <br/>
@@ -36,16 +36,16 @@
 Building tools that make developers' lives easier.
 Passionate about distributed systems, developer experience, and the open-source ecosystem.
 
-**Currently at** Stellar Labs — San Francisco, CA
+**Currently at** PWC — Porto, PT
 </details>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:nyx@stellarlabs.dev">
+  <a href="mailto:pedronunomacedo@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nyxorion/">
+  <a href="https://www.linkedin.com/in/pedronmacedo/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
 </div>
