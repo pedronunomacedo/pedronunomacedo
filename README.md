@@ -36,7 +36,7 @@
 Building tools that make developers' lives easier.
 Passionate about distributed systems, developer experience, and the open-source ecosystem.
 
-**Currently at** PWC — Porto, PT
+**Currently at** PWC Luxembourg — Porto, PT
 </details>
 
 <br/>
